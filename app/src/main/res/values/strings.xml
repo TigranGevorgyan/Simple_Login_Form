@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple_Login_Form</string>
+    <string name="hintForTextView">Enter Username and Password to login</string>
+    <string name="userName">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="mainActivity">You are in MainActivity</string>
+    <string name="newActivity">Main Activity</string>
+</resources>
